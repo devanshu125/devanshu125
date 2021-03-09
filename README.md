@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pokemon - Exploratory Data Analysis](https://dataphrase.github.io/pokemoneda/)
+- [How was importance of Handwashing discovered- EDA](https://dataphrase.github.io/handwash/)
+- [Graduate Admission prediction](https://dataphrase.github.io/graduateadmission/)
+- [Bad passwords and the NIST guidelines](https://dataphrase.github.io/nistpassword/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
