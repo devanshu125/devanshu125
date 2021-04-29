@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [https://dataphrase.github.io/](https://dataphrase.github.io/)
-
 - 💬 Ask me about **all things data science**
 
 - 📫 How to reach me **devanshu125@gmail.com**
@@ -21,20 +19,11 @@
 
 - ⚡ Fun fact **I'm a huge fan of Manchester United**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Pokemon - Exploratory Data Analysis](https://dataphrase.github.io/pokemoneda/)
-- [How was importance of Handwashing discovered- EDA](https://dataphrase.github.io/handwash/)
-- [Graduate Admission prediction](https://dataphrase.github.io/graduateadmission/)
-- [Bad passwords and the NIST guidelines](https://dataphrase.github.io/nistpassword/)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devanshu125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devanshu125" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devanshu125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devanshu125" height="30" width="40" /></a>
-<a href="https://kaggle.com/devanshu125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="devanshu125" height="30" width="40" /></a>
-<a href="/https://dataphrase.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://dataphrase.github.io/feed.xml" height="30" width="40" /></a>
+<a href="https://twitter.com/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="devanshu125" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="devanshu125" height="30" width="40" /></a>
+<a href="https://kaggle.com/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="devanshu125" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
