@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/devanshu125" target="blank"><img src="https://img.shields.io/twitter/follow/devanshu125?logo=twitter&style=for-the-badge" alt="devanshu125" /></a> </p>
 
-- 🔭 I’m currently working on [2048](https://github.com/mananjhaveri/2048)
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **all things data science**
