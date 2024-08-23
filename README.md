@@ -1,34 +1,15 @@
-<h1 align="center">Hi 👋, I'm Devanshu</h1>
-<h3 align="center">Data Science undergrad at NMIMS, Mumbai</h3>
+<h1 align="center">Hi 👋, I'm Devanshu Ramaiya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu125&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu125" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshu125" alt="devanshu125" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/devanshu125" target="blank"><img src="https://img.shields.io/twitter/follow/devanshu125?logo=twitter&style=for-the-badge" alt="devanshu125" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **all things data science**
-
-- 📫 How to reach me **devanshu125@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/devanshu125/](https://www.linkedin.com/in/devanshu125/)
-
-- ⚡ Fun fact **I'm a huge fan of Manchester United**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="devanshu125" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="devanshu125" height="30" width="40" /></a>
-<a href="https://kaggle.com/devanshu125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="devanshu125" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" height="400">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I am deeply passionate about data science and financial markets. In my free time I also try to stay active on [Kaggle](https://www.kaggle.com/devanshu125/competitions) by participating in various competitions. Here are a few that have gone well:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu125&show_icons=true&locale=en&layout=compact" alt="devanshu125" /></p>
+- *Optiver Trading at the close*: In this competition the task was to predict the US stocks closing movements. I used a stock clustering approach for generating new features and purged cross-validation technique for training models that were a part of my [final solution](https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/485939) that ranked 283rd out of 4436 participants.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshu125&show_icons=true&locale=en" alt="devanshu125" /></p>
+- *CommonLit Readability Prize*: In this competition the task was to predict the complexity of literary passages for grades 3-12 classroom use. Our [final solution](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/257756) included a RoBERTa-Large model with custom attention head and layer-wise learning rate decay that ranked 88th out of 3633 participants.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu125&" alt="devanshu125" /></p>
+All in all, it has been fun to explore tech as well finance side of things, but I'm still learning and if you have similar interests or would like to talk about any of these topics, do reach out!
+
+(P.S. Coffee on me if you're in Dubai :grin:)
